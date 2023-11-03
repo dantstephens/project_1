@@ -1,9 +1,9 @@
 # project_1
 
 Group members:
-Daniel Stephens
-Maggie Puch
-Patricia Ferreira 
+Daniel Stephens, 
+Maggie Puch, 
+Patricia Ferreira,  
 Yenori Alvarez
 
 Project 1 Proposal (see https://docs.google.com/document/d/1yClm5K6qjJtWbwD8eiNVcqrsPEbq5fjTdYlalVG2d9o/edit for more)
