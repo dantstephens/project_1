@@ -17,8 +17,8 @@ Research Questions:
 - How do the differences in education amongst the billionaires affect their net worth?
 - Which country is producing the most billionaires?
 - Which country has the most billionaires per population?
-- In this country, which industry is most popular amongst billionaires?
-- Which industry is producing the most billionaires across the globe?
+- For the top country, which industry is producing the billionaires?
+- Which countries have the largest ratio of billionaire wealth to GDP?
 - How do ‘self made’ billionaires compare to those who work in other industries.
 - What is the ratio between male to female billionaires?
 - Which country has the highest gender gap amongst billionaires? Which has the lowest?
