@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # project_1
 
 Group members:
@@ -22,3 +23,6 @@ Research Questions:
 - How do ‘self made’ billionaires compare to those who work in other industries.
 - What is the ratio between male to female billionaires?
 - Which country has the highest gender gap amongst billionaires? Which has the lowest?
+=======
+# project_1
+>>>>>>> 841a708 (Initial commit)
