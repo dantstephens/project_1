@@ -1,9 +1,15 @@
 # project_1
 
 Group members:
+<<<<<<< HEAD
 Daniel Stephens, 
 Maggie Puch, 
 Patricia Ferreira,  
+=======
+Daniel Stephens
+Maggie Puch
+Patricia Ferreira 
+>>>>>>> 8f109ca (Initial commit)
 Yenori Alvarez
 
 Project 1 Proposal (see https://docs.google.com/document/d/1yClm5K6qjJtWbwD8eiNVcqrsPEbq5fjTdYlalVG2d9o/edit for more)
@@ -21,6 +27,7 @@ Research Questions:
 - Which industry is producing the most billionaires across the globe?
 - How do ‘self made’ billionaires compare to those who work in other industries.
 - What is the ratio between male to female billionaires?
+<<<<<<< HEAD
 - Which country has the highest gender gap amongst billionaires? Which has the lowest?
 
 
@@ -33,3 +40,10 @@ URL: https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-da
 Accessed on: October 26, 2023
 Title: Billionaires Statistics Dataset
 URL: https://www.kaggle.com/datasets/sujalluhar/billionaires-listed-in-forbes 
+<<<<<<< HEAD
+=======
+Accessed on: October 26, 2023
+=======
+- Which country has the highest gender gap amongst billionaires? Which has the lowest?
+>>>>>>> 8f109ca (Initial commit)
+>>>>>>> 990bbb7 (Initial commit)
