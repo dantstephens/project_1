@@ -20,12 +20,16 @@ The goal of this project is to find trends among billionaires across the globe t
 - For the top country, which industry is producing the billionaires?
 - Which countries have the largest ratio of billionaire wealth to GDP?
 - How do ‘self made’ billionaires compare to those who work in other industries.
+- Number of Billionaires who were self-made vs. Inherited wealth
 - What is the ratio between male to female billionaires?
 - Which country has the highest gender gap amongst billionaires? Which has the lowest?
 
 
 ### Male VS Female Analysis of Billionaires:
 Overall the mean worth of Male to Female billionaires is comparable even with only 12% of global billionaires being female. The top 3 industries producing male billionaires are Finance & Investments, Technology, and Manufacturing. The top 3 industries producing female billionaires are Food & Beverage, Manufacturing, and Fashion & Beauty. The only industry with Male only billionaires is Telecom. Finally, in the United States, California is the home to the most billionaires both male and female followed closely by New York in second.
+
+###Industry Analysis of Billionaires:
+First thing that caught my attention with the data set my team chose was the industries producing the most billionaires across the data set. The top industry is finance and investments as I looked further into it there are more self made billionaires in this industry. There are 276 self made Billionaires and 96 billionaires who have inherited their wealth in the number 1 industry. This industry consists of private equity, hedge funds, and bankers. The 2nd top industry is manufacturing. The amount of self made billionaires in this industry is 235 and inherited is 89. When I looked into the top billionaires in this industry, it included Reinhold Wuerth who took over his family’s screw and fastener business. I also found Elizabeth Uihlein who founded a packaging distributor. The 3rd top industry is Technology where we have self made 292 and inherited 22, this includes software/hardware and applications. In conclusion, Self made has the highest percentage of 68.6% and inherited is only 31.4% with the U.S having the highest billionaires with 540 self made billionaires and 214 inherited billionaires.
 
 ### Country Analysis of Billionaires:  
 When examining billionaire volume and net worth across the globe, the United States comes out ahead as the top producer by volume, with 754 individual billionaires, followed by China with 523 billionaires. Of the top 20, only the US, China, India, and Germany have more than a 100 billionaires. The United States also has the highest total net worth among billionaires, with a combined total net worth of $4.5 trillion, while China comes second at $1.8 trillion. While the United States had 36.2% more Billionaires than China, it had 86.6% higher total net worth. This is due to the significantly higher median net worth of Billionaires in the United States at $2,900,000,000, compared to China's $1,900,000,000.
