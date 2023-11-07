@@ -19,8 +19,9 @@ The goal of this project is to find trends among billionaires across the globe t
 - Which country has the most billionaires per population?
 - For the top country, which industry is producing the billionaires?
 - Which countries have the largest ratio of billionaire wealth to GDP?
-- How do ‘self made’ billionaires compare to those who work in other industries.
-- Number of Billionaires who were self-made vs. Inherited wealth
+- Which industry is producing the most billionaires across the globe.
+- Number of Billionaires who were self-made vs. Inherited wealth.
+- The difference between self made and inherited in the country with the most billionaires.
 - What is the ratio between male to female billionaires?
 - Which country has the highest gender gap amongst billionaires? Which has the lowest?
 
